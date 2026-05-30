@@ -1,0 +1,21 @@
+{
+  "name": "harbor",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/karansingh-dev/harbor#readme",
+  "bugs": {
+    "url": "https://github.com/karansingh-dev/harbor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karansingh-dev/harbor.git"
+  },
+  "license": "MIT",
+  "author": "karan singh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
